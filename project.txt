@@ -1,0 +1,24 @@
+Overview of Git
+Version control system
+Types of VCS
+Git flow/Architecture
+Installation of Git
+Basic Git commands
+Branches
+============================================================================================================
+Revert
+============================================================================================================
+stashes
+Tags
+merge & rebase
+cherry-pick
+============================================================================================================
+Github Account Creation
+Advanced commands
+  * git clone
+  * git pull
+  * git push
+  * git checkout
+  * git fetch
+Git Remotes:wq!
+
