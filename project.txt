@@ -22,3 +22,17 @@ Advanced commands
   * git fetch
 Git Remotes:wq!
 
+
+========================================================================================================
+Revert:
+================================================================================================================
+Revert is process of rollback/undo change from particular commit to previous commit.
+Even Reverted changes will be recorded by Git.
+
+syntax: git revert commit_id
+
+[root@ip-172-31-19-14 devops-repos]# git revert ec4bd8c
+[develop ee9be8f] Revert " Adding file2"
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 file2
+[root@ip-172-31-19-14 devops-repos]#
