@@ -36,3 +36,23 @@ syntax: git revert commit_id
  1 file changed, 0 insertions(+), 0 deletions(-)
  delete mode 100644 file2
 [root@ip-172-31-19-14 devops-repos]#
+
+
+
+eature wise branches : Reusability of code for different customers
+                        Less effort is required in reverting the changes and rewriting code
+                        In case any feature is not working, we can delete branch easily wihtout impact other features
+                        Every feature will unique files/directories/commits.
+                        Segregate the work easily.
+
+1. login-feature branch : login.java 
+                          login-security.java
+                          login-password.java 
+              * Commit changes for login-feature into login-feature branch
+
+
+2. logout-feature branch : logout.java
+                           logout-security.java
+                          
+          * Commit changes for logout-feature into logout-feature branch
+
