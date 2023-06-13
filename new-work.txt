@@ -1,0 +1,13 @@
+=====================================================================================================================
+Github Adminsitration
+=============================================
+  * Collabrators : Provide access via collabrates to read and write to repository
+      go to repository settings -> Collabrators -> Add new people  -> Ask them to accept invite
+     
+  * Branch Protection:Branch protection rules define whether collaborators can delete or force push to the branch and set requirements for any pushes to the branch, such as passing status checks or a linear commit history.
+
+
+
+  * Pull Request Mandate & Merge restrictions
+  * SSH Keys & Token creation for Github Operations.
+  * Walk through of General Settings
